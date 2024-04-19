@@ -10,7 +10,6 @@
 > [![Linkedin](https://img.shields.io/badge/Linkedin-yellow?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/phorch69)
 > [![Github](https://img.shields.io/badge/Github-4479A1?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/phorch69)
 
-#
 > ### Mi Contenido en:
 > [![Youtube](https://img.shields.io/badge/Youtube-yellow?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@phorch69)
 > [![Twitch](https://img.shields.io/badge/Twitch-4479A1?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/phorch69)
@@ -23,13 +22,11 @@
 > [![TypeScript](https://img.shields.io/badge/TypeScript-3300A1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 > [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
-#
 > ### Framework Frontend:
 > [![React](https://img.shields.io/badge/React-4479A1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 > [![Angular](https://img.shields.io/badge/Angular-3300A1?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 > [![Astro](https://img.shields.io/badge/Astro-3300A1?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
 
-#
 > ### Framework Backend:
 > [![Django](https://img.shields.io/badge/Django-3300A1?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 > [![Express](https://img.shields.io/badge/Express-3300A1?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
