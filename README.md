@@ -18,11 +18,14 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 ## Utilizo las Siguientes Tecnologias
 > ### Heramientas que Utilizo:
 > [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
-> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
 > [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
 > [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
+> [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
+> <br />
+> [![CloudFlare](https://img.shields.io/badge/CloudFlare-orange?style=for-the-badge&logo=CloudFlare&logoColor=orange&labelColor=101010)]()
 > [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 > [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
+> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
 
 > ### Framework Frontend:
 > [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
@@ -32,6 +35,13 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > ### Framework Backend:
 > [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
 > [![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+
+> ### Inteligencia Artificial:
+> [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
+> [![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=red&labelColor=101010)]()
+> [![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=PyTorch&logoColor=orange&labelColor=101010)]()
+> <br />
+> Entre Otras Más...
 
 ## Mas Informacion de Mi:
 > [!NOTE]
