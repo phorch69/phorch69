@@ -32,7 +32,6 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > ### Framework Frontend:
 > [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
 > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
-> [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
 
 > ### Framework Backend:
 > [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
