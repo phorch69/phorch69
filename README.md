@@ -1,9 +1,9 @@
-<p align="center" width="300">
-   <!--<img align="center" width="200" src="" /> -->
-   <h3 align="center">
-      ¡Hola 👋!<br>Un gusto en conocerte<br>Soy phorch69
-   </h3>
-</p>
+<h3 align="center">
+   
+[![Logo](https://github.com/phorch69/phorch69/assets/155394140/2ddb9a8f-f036-476c-af48-d1f8ddd78098)](https://github.com/phorch69)
+<br/>
+¡Hola 👋!<br>Un gusto en conocerte<br>Soy phorch69
+</h3>
 Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la programacion por lo que acá podran ver mis proyectos o tambien ver y seguirme en mis redes sociales
 
 ## Mis Redes Sociales
@@ -21,9 +21,11 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
 > [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
 
-> ### Control de desarollo y Ejecucion:
+> ### Control de Versión :
 > [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
-> <br/>
+
+> ### Entorno de Desarrollo:
+> [![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=vite&logoColor=yellow&labelColor=101010)]()
 > [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 
 > ### Librerias:
