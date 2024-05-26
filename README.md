@@ -16,27 +16,34 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > [![Twitch](https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=violet&labelColor=101010)](https://www.twitch.tv/phorch69)
 
 ## Utilizo las Siguientes Tecnologias
-> ### Heramientas que Utilizo:
+> ### Lenguajes:
 > [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
 > [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
 > [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
-> <br />
+
+> ### Control de desarollo y Ejecucion:
 > [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
-> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
-> [![tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
-> <br />
+> <br/>
 > [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
+
+> ### Librerias:
 > [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
-> [![CloudFlare](https://img.shields.io/badge/CloudFlare-orange?style=for-the-badge&logo=CloudFlare&logoColor=orange&labelColor=101010)]()
+
+> ### Framework CSS:
+> [![tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
 
 > ### Framework Frontend:
-> [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
+> [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
+> [![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=green&labelColor=101010)]()
 > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
-
+<!--
 > ### Framework Backend:
 > [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
 > [![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 
+> ### Base de Datos:
+> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
+-->
 > ### Inteligencia Artificial:
 > [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
 > [![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=red&labelColor=101010)]()
