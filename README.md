@@ -33,11 +33,9 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 
 > ### Framework CSS:
 > [![tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
-
+<!--
 > ### Framework Frontend:
-> [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
-> [![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=green&labelColor=101010)]()
-<!-- > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]() -->
+ > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]() -->
 <!--
 > ### Framework Backend:
 > [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
