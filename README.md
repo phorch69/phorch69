@@ -13,7 +13,7 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 
 > ### Mi Contenido en:
 > [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
-> [![Twitch](https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=violet&labelColor=101010)](https://www.twitch.tv/phorch69)
+<!-- > [![Twitch](https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=violet&labelColor=101010)](https://www.twitch.tv/phorch69) -->
 
 ## Utilizo las Siguientes Tecnologias
 > ### Lenguajes:
