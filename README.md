@@ -7,9 +7,10 @@
 <p align='left'>
 - 👨🏻‍💻 &nbsp; Sobre Mi</br>
 Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la programacion por lo que acá podran ver mis proyectos o tambien ver y seguirme en mis redes sociales
-<table class="my-element">
+</p>
+<table style="width:100%">
 <tr>
-<td class="Align">
+<td>
 
 > ### Contactos en:
 > <!-- > [![Twitch](https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=violet&labelColor=101010)](https://www.twitch.tv/phorch69) -->
@@ -17,12 +18,12 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/phorch69)
 > [![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://github.com/phorch69)
 </td>
-<td class="Align">
+<td>
 
 > ### Control de Versión :
 > [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
 </td>
-<td class="Align">
+<td>
 
 > ### Entorno de Desarrollo:
 > [![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=vite&logoColor=yellow&labelColor=101010)]()
@@ -30,19 +31,19 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 </td>
 </tr>
 <tr >
-<td class="Align">
+<td>
 
 > ### Framework CSS:
 > [![tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
 </td>
-<td class="Align">
+<td>
 
 > ### Lenguajes:
 > <!-- > [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]() -->
 > [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
 > [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
 </td>
-<td class="Align">
+<td>
 
 > ### Librerias:
 > [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
@@ -71,22 +72,9 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 
 ## Mas Informacion de Mi:
 > [!NOTE]
-> Tambien puedes ver mis proyectos y visitar a mi **_Pagina Personal_** _(Aun esta en desarrollo)_
-
-
-<style>
-   .my-element {
-      border: 1px solid transparent;
-      width:100%
-   }
-   .Align {
-      align-item: center
-   }
-   .markdown-body table tr:nth-child(2n) {
-    background-color: transparent;
-   }
-   table td {
-    border: 1px solid transparent;
-      background-color: transparent;
-   }
-</style>
+> Si te da curiosidad sobre mis proyecto aca de dejo uno de mis videos mas reciente
+<p align='center'>
+<a href='https://www.youtube.com/playlist?list=PLWwYaIfV-e81FBzsDR_hsZFDLGk6OAypy' target='_blank'>
+  <img width='700px' src='https://i.ytimg.com/vi/t0rw2RxXSLY/maxresdefault.jpg' alt='Recolilacion del Proyecto' />
+</a>
+</p>
