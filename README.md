@@ -7,52 +7,6 @@
 <p align='left'>
 - 👨🏻‍💻 &nbsp; Sobre Mi</br>
 Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la programacion por lo que acá podran ver mis proyectos o tambien ver y seguirme en mis redes sociales
-</p>
-<!--
-## Mis Redes Sociales
-> ### Mis Proyectos y Contactos en:
-> [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/phorch69)
-> [![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://github.com/phorch69)
-<!--
-> ### Mi Contenido en:
-> [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
-> [![Twitch](https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=violet&labelColor=101010)](https://www.twitch.tv/phorch69)
-<!--
-## Utilizo las Siguientes Tecnologias
-> ### Lenguajes:
-> [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
-> [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
-> [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
-<!--
-> ### Control de Versión :
-> [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
-<!--
-> ### Entorno de Desarrollo:
-> [![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=vite&logoColor=yellow&labelColor=101010)]()
-> [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
-<!--
-> ### Librerias:
-> [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
-<!--
-> ### Framework Frontend:
-> [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
-<!--
-> ### Framework Backend:
-> [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
-> [![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
-<!--
-> ### Base de Datos:
-> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
-<!--
-> ### Inteligencia Artificial:
-> [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
-> [![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=red&labelColor=101010)]()
-> [![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=PyTorch&logoColor=orange&labelColor=101010)]()
-> <br />
-> Entre Otras Más...
--->
-</p>
-
 <table class="my-element">
 <tr>
 <td class="Align">
@@ -75,7 +29,7 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 </td>
 </tr>
-<tr style=" background-color: 'transparent' ">
+<tr >
 <td class="Align">
 
 > ### Framework CSS:
@@ -124,9 +78,15 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
    .my-element {
       border: 1px solid transparent;
       width:100%
-      border-collapse: collapse;
    }
    .Align {
       align-item: center
+   }
+   .markdown-body table tr:nth-child(2n) {
+    background-color: transparent;
+   }
+   table td {
+    border: 1px solid transparent;
+      background-color: transparent;
    }
 </style>
