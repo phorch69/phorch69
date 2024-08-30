@@ -68,7 +68,7 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > [![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=PyTorch&logoColor=orange&labelColor=101010)]()
 > <br />
 > Entre Otras Más...
--->
+
 
 ## Mas Informacion de Mi:
 > [!NOTE]
@@ -78,3 +78,4 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
   <img width='700px' src='https://i.ytimg.com/vi/t0rw2RxXSLY/maxresdefault.jpg' alt='Recolilacion del Proyecto' />
 </a>
 </p>
+-->
