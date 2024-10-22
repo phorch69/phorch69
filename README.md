@@ -33,9 +33,8 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > ### Librerias:
 > [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
 
-<!--
 > ### Framework Frontend:
- > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]() -->
+ > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
 <!--
 > ### Framework Backend:
 > [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
@@ -43,7 +42,7 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 
 > ### Base de Datos:
 > [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
-
+-->
 > ### Inteligencia Artificial:
 > [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
 > [![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=red&labelColor=101010)]()
@@ -54,13 +53,10 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 
 ## Mas Informacion de Mi:
 > [!NOTE]
-> Si te da curiosidad sobre mis proyecto aca de dejo uno de mis videos mas reciente
-<p align='center'>
-<a href='https://www.youtube.com/playlist?list=PLWwYaIfV-e81FBzsDR_hsZFDLGk6OAypy' target='_blank'>
-  <img width='700px' src='https://i.ytimg.com/vi/t0rw2RxXSLY/maxresdefault.jpg' alt='Recolilacion del Proyecto' />
-</a>
-</p>
--->
+> Puedes ver en mi Portafolio sobre mi y mis conocimientos:
+> 
+> [![Github](https://img.shields.io/badge/Portafolio-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)]([https://github.com/phorch69](https://phorch69.github.io/Portafolio))
+
 
 ### Estadisticas del Github 📊:
 ![Stats](https://github-readme-stats.vercel.app/api?username=phorch69&show_icons=true&hide_border=false&theme=transparent&count_private=true&include_all_commits=true)
