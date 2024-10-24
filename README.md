@@ -14,6 +14,8 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 > [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
 > [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/phorch69)
 > [![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://github.com/phorch69)
+> [![Instagram](https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=violet&labelColor=101010)](https://www.instagram.com/phorch69)
+> [![Tiktok](https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@phorch69)
 
 > ### Control de Versión :
 > [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
