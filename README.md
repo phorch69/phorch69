@@ -10,22 +10,16 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 </p>
 
 > ### Redes Sociales:
-> <!-- > [![Twitch](https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=violet&labelColor=101010)](https://www.twitch.tv/phorch69) -->
-> [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
 > [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/phorch69)
+> [![Twitch](https://img.shields.io/badge/Twitch-9400D3?style=for-the-badge&logo=twitch&logoColor=9400D3&labelColor=101010)](https://www.twitch.tv/phorch69) 
+> [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
 > [![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://github.com/phorch69)
 > [![Instagram](https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=violet&labelColor=101010)](https://www.instagram.com/phorch69)
 > [![Tiktok](https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@phorch69)
 
-> ### Control de Versión :
+> ### Entrono:
 > [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
-
-> ### Entorno de Desarrollo:
-> [![Vite](https://img.shields.io/badge/Vite-yellow?style=for-the-badge&logo=vite&logoColor=yellow&labelColor=101010)]()
 > [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
-
-> ### Framework CSS:
-> [![tailwindcss](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
    
 > ### Lenguajes:
 > [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
@@ -34,30 +28,24 @@ Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la program
 
 > ### Librerias:
 > [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
+> [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
+> [![Tensorflow.js](https://img.shields.io/badge/Tensorflow.js-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
 
 > ### Framework Frontend:
- > [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
+> [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
+> [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
 
 > ### Framework Backend:
-> [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
 > [![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 
 > ### Base de Datos:
 > [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
 
-> ### Inteligencia Artificial:
-> [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
-> [![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=red&labelColor=101010)]()
-> [![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=PyTorch&logoColor=orange&labelColor=101010)]()
-> <br />
-> Entre Otras Más...
-
-
 ## Mas Informacion de Mi:
 > [!NOTE]
 > Puedes ver en mi Portafolio sobre mi y mis conocimientos:
 > 
-> [![Github](https://img.shields.io/badge/Portafolio-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://phorch69.github.io/Portafolio)
+> [![Github](https://img.shields.io/badge/Home-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://phorch69.github.io/Home)
 
 
 ### Estadisticas del Github 📊:
