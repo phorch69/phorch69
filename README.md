@@ -1,56 +1,111 @@
-<h3 align="center">
-   
-[![Logo](https://github.com/phorch69/phorch69/assets/155394140/2ddb9a8f-f036-476c-af48-d1f8ddd78098)](https://github.com/phorch69)
-<br/>
-¡<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hola!<br>Un gusto en conocerte<br>Soy phorch69
-</h3>
-<p align='left'>
-- 👨🏻‍💻 &nbsp; Sobre Mi</br>
-Soy un estudiante de Ingenieria Informatica y 2022 fue mi comienzo en la programacion por lo que acá podran ver mis proyectos o tambien ver y seguirme en mis redes sociales
+<h1 align="center">6 · P · 9</h1>
+
+<p align="center">
+  Full Stack · Modelador 3D · Ciberseguridad · Robótica · IA
 </p>
 
-> ### Redes Sociales:
-> [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/phorch69)
-> [![Twitch](https://img.shields.io/badge/Twitch-9400D3?style=for-the-badge&logo=twitch&logoColor=9400D3&labelColor=101010)](https://www.twitch.tv/phorch69) 
-> [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
-> [![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://github.com/phorch69)
-> [![Instagram](https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=violet&labelColor=101010)](https://www.instagram.com/phorch69)
-> [![Tiktok](https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@phorch69)
+---
 
-> ### Entrono:
-> [![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=red&labelColor=101010)]()
-> [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
-   
-> ### Lenguajes:
-> [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=101010)]()
-> [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=101010)]()
-> [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
+### 🧠 Sobre mí
 
-> ### Librerias:
-> [![Three.js](https://img.shields.io/badge/Three.js-grey?style=for-the-badge&logo=three.js&logoColor=grey&labelColor=101010)]()
-> [![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
-> [![Tensorflow.js](https://img.shields.io/badge/Tensorflow.js-orange?style=for-the-badge&logo=Tensorflow&logoColor=orange&labelColor=101010)]()
+Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasiona la programación, la ciberseguridad, la inteligencia artificial y la creación de soluciones físicas mediante modelado e impresión 3D. Me interesa especialmente la intersección entre software y hardware, como la robótica, donde convergen mis intereses.
 
-> ### Framework Frontend:
-> [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
-> [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
+- 🖥️ Desarrollo de software con foco en eficiencia y claridad.
+- 🧱 Diseño de modelos 3D funcionales, prototipos y piezas personalizadas.
+- 🔐 Explorador constante del mundo de la ciberseguridad ofensiva y defensiva.
+- 🤖 Experiencia con microcontroladores, sensores y automatización.
+- 🧠 Interesado en aprendizaje automático y redes neuronales aplicadas.
 
-> ### Framework Backend:
-> [![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+---
 
-> ### Base de Datos:
-> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)]()
+### 📫 Contacto
 
-## Mas Informacion de Mi:
-> [!NOTE]
-> Puedes ver en mi Portafolio sobre mi y mis conocimientos:
-> 
-> [![Github](https://img.shields.io/badge/Home-grey?style=for-the-badge&logo=github&logoColor=grey&labelColor=101010)](https://phorch69.github.io/Home)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/phorch69)
+[![cults3d](https://img.shields.io/badge/cults3d-purple?style=flat&logo=cults3d&logoColor=purple&labelColor=101010)](https://cults3d.com/es/usuarios/phorch69/modelos-3d)
+[![Twitch](https://img.shields.io/badge/Twitch-9400D3?style=flat&logo=twitch&logoColor=9400D3&labelColor=101010)](https://www.twitch.tv/phorch69) 
+[![Youtube](https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/@phorch69)
+[![Github](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=grey&labelColor=101010)](https://github.com/phorch69)
+[![Instagram](https://img.shields.io/badge/Instagram-violet?style=flat&logo=instagram&logoColor=violet&labelColor=101010)](https://www.instagram.com/phorch69)
+[![Tiktok](https://img.shields.io/badge/Tiktok-white?style=flat&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@phorch69)
+
+---
+
+### 🛠️ Tecnologías que uso
+
+**Lenguajes:**
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typeScript)
+
+- **Liberias:**
+
+    ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat&logo=Three.js)
+    ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+    ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-333?style=flat&logo=tensorflow)
+
+- **Framework:**
+
+    - **FrontEnd**
+
+        ![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=Angular)
+        ![Astro](https://img.shields.io/badge/-Astro-333?style=flat&logo=Astro)
+    
+    - **BackEnd**
+
+        ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=Express)
+    
+    - **Otros**
+
+        ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=MySQL)
+
+**Entornos:**
+
+- **Software**
+
+    ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+    ![Debian](https://img.shields.io/badge/-debian-333?style=flat&logo=debian)
+
+- **Herramientas**
+
+    ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+    ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=Node.js)
 
 
-### Estadisticas del Github 📊:
-![Stats](https://github-readme-stats.vercel.app/api?username=phorch69&show_icons=true&hide_border=false&theme=transparent&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phorch69&show_icons=true&hide_border=false&theme=transparent&count_private=true&include_all_commits=true&layout=compact)
+**Modelo 3D:**
 
-### Racha de GitHub 🔥:
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=phorch69&theme=transparent&date_format=j%20M%5B%20Y%5D)
+- **Diseño 3D**
+
+    ![FreeCad](https://img.shields.io/badge/-FreeCAD-333?style=flat&logo=freecad)
+    ![Blender](https://img.shields.io/badge/-Blender-333?style=flat&logo=blender)
+
+- **Impresión**
+
+    ![PrusaSlicer](https://img.shields.io/badge/-PrusaSlicer-333?style=flat&logo=PrusaSlicer)
+    ![Ender 3](https://img.shields.io/badge/-Ender%203%20Neo-333?style=flat&logo=creality)
+
+**Robotica:**
+
+![Arduino](https://img.shields.io/badge/-Arduino-333?style=flat&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat&logo=raspberrypi)
+![Espressif](https://img.shields.io/badge/-ESP32%20/%20ESP8266%20(Espressif)-333?style=flat&logo=Espressif)
+
+- **Framework**
+
+    ![ROS](https://img.shields.io/badge/-ROS%20(Robot%20Operating%20System)-333?style=flat&logo=ROS)
+
+---
+
+### 📂 Repositorios destacados
+
+- 🔐 Scripts y herramientas para **pentesting**.
+- 🤖 Proyectos de **robótica autónoma**.
+- 🧠 Experimentos con **modelos de IA**.
+- 🖨️ Modelos 3D prácticos y personalizados para impresión.
+
+---
+
+<p align="center">
+  “El software es una gran combinación de arte y ingeniería.” — Bill Gates
+</p>
