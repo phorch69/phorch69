@@ -94,6 +94,7 @@ Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasio
 - **Framework**
 
     ![ROS](https://img.shields.io/badge/-ROS%20(Robot%20Operating%20System)-333?style=flat&logo=ROS)
+    ![PlatformIO](https://img.shields.io/badge/-PlatformIO-333?style=flat&logo=PlatformIO)
 
 ---
 
