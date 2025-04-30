@@ -38,6 +38,7 @@ Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasio
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typeScript)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 
 - **Liberias:**
 
