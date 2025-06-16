@@ -42,8 +42,8 @@ Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasio
 
 - **Liberias:**
 
+    ![Anime.js](https://img.shields.io/badge/-Anime.js-333?style=flat&logo=anime.js)
     ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat&logo=Three.js)
-    ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
     ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-333?style=flat&logo=tensorflow)
 
 - **Framework:**
