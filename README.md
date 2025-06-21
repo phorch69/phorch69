@@ -1,14 +1,14 @@
 <h1 align="center">6 · P · 9</h1>
 
 <p align="center">
-  Full Stack · Modelador 3D · Ciberseguridad · Robótica · IA
+  Full Stack · Realidad Virtual · Modelador 3D · Ciberseguridad · Robótica · IA
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasiona la programación, la ciberseguridad, la inteligencia artificial y la creación de soluciones físicas mediante modelado e impresión 3D. Me interesa especialmente la intersección entre software y hardware, como la robótica, donde convergen mis intereses.
+Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasiona la programación, la ciberseguridad, la inteligencia artificial y la creación de soluciones físicas mediante modelado e impresión 3D. Me interesa especialmente la intersección entre software y hardware, como la robótica o la creacion de VR, donde convergen mis intereses.
 
 - 🖥️ Desarrollo de software con foco en eficiencia y claridad.
 - 🧱 Diseño de modelos 3D funcionales, prototipos y piezas personalizadas.
@@ -57,9 +57,10 @@ Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasio
 
         ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=Express)
     
-    - **Otros**
+    - **Base de Datos**
 
         ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=MySQL)
+        ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
 **Entornos:**
 
@@ -101,10 +102,10 @@ Soy un entusiasta de la tecnología con un enfoque multidisciplinario. Me apasio
 
 ### 📂 Repositorios destacados
 
-- 🔐 Scripts y herramientas para **pentesting**.
-- 🤖 Proyectos de **robótica autónoma**.
-- 🧠 Experimentos con **modelos de IA**.
-- 🖨️ Modelos 3D prácticos y personalizados para impresión.
+- 🔐 Scripts y proyectos de **Todo Tipo**.
+- 🤖 Proyectos de **Realidad Virtual**.
+- 🧠 Experimentos con **Modelos de IA**.
+- 🖨️ Muestras de modelos 3D para imprimir en **Imprimesoras 3D**.
 
 ---
 
